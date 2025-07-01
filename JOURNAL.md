@@ -22,5 +22,6 @@ Today luke designed the enitre meltybrain robot while on a call with dylan. Dyla
 
 ![image](https://github.com/user-attachments/assets/e41fcb9e-9832-4c37-90cd-c68255b39981)
 ![image](https://github.com/user-attachments/assets/263007fa-38ad-49f9-9e12-a08b5cc27c43)
+![image](https://github.com/user-attachments/assets/aeae5ecb-53cc-4c41-926c-c87c14aa5500)
 
 **Total time spent 8hr**
