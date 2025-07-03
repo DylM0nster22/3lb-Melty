@@ -16,7 +16,7 @@ With this BOM we have two 3536 drone motors as our main drive motors and two 90a
 
 **Total Time Spend 1.5hr**
 
-# June 29th: making the cad crying about the pcb
+# June 29th: making the cad and trying to make the pcb
 
 Today luke designed the enitre meltybrain robot while on a call with dylan. Dylan started trying to make the pcb and tried different ideas and custom things but completly failed at all of them, because he has no experince making them. Luke spent around 8hr making the meltybrain cad and its mostly done, dylan had no progress to speak of other than deciding on a plan.
 
