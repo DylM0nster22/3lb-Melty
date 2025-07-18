@@ -25,3 +25,11 @@ Today luke designed the enitre meltybrain robot while on a call with dylan. Dyla
 ![image](https://github.com/user-attachments/assets/aeae5ecb-53cc-4c41-926c-c87c14aa5500)
 
 **Total time spent 8hr**
+
+# July 18th: Starting the PCB
+
+Today Dylan started the design of the pcb and got pretty close to finishing the schematic, he added the mcu which is a xiao esp32 breakout board, the mcu an h3lis311 breakout board, the reciever which is a fs-2a, the led, the xt60, and he still needs to add things like voltage regulator pads and other various things. tommorow will most likely consist of mainly wiring the pcb.
+
+![image](https://github.com/user-attachments/assets/ae449426-af5a-4c87-ad0e-6ca301b02cf3)
+
+
