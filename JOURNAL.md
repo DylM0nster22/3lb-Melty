@@ -32,4 +32,14 @@ Today Dylan started the design of the pcb and got pretty close to finishing the 
 
 ![image](https://github.com/user-attachments/assets/ae449426-af5a-4c87-ad0e-6ca301b02cf3)
 
+**Total time spent 6hr**
+
+# July 20th: Getting closer to wiring the PCB
+
+Dylan didnt have time to work on the PCB yesterday and today he learned he wasnt even close to done with the schematic, the mcu that was being used was the wrong type so that was switched to an Adafruit ItsyBitsy 32u4 - 5V 16MHz because its the correct architecture for the opensource code were using/editing called openmelt2. He also learned that a xt60 wasnt nearly big enough for this so the bot is now going to use a xt90 which supports up to 90a. tommorow will consist of adding resistors, diodes, cap's, etc, then maybe after all that wiring the PCB. oh and a buck converter was also added to keep everything at 5v. Most of the time was spent remakeing things and relizing nothing works.
+
+![image](https://github.com/user-attachments/assets/65da2628-63cd-44c1-8b85-a7690f9aad56)
+
+**Total time spend 5hr**
+
 
