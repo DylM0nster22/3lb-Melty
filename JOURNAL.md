@@ -1,7 +1,7 @@
 ---
 title: "3lb MeltyBrain"
 author: "Dylan and Luke"
-description: "This is going to be a 3lb meltybrain that has a custom pcb to control pwm movement"
+description: "This is going to be a 3lb meltybrain that has a custom pcb to control pwm movement and distrubte power"
 created_at: "2025-28-6"
 ---
 # Total Time Spent 0hr
@@ -57,3 +57,11 @@ Today dylan spent too long to count looking for footprints before relizing that 
 ![image](https://github.com/user-attachments/assets/ecefd59d-47b6-43b0-bab3-d6088a5bcd57)
 
 **Total time spend 4hr**
+
+# July 23rd: Continuing on the PCB
+
+Today Dylan finally started getting into the grove of how kicad works after spending too many hours on it, he also learned that 90a on 16.4v is alot of power and needs thick traces, about 10mm with 2oz copper and solder all over those 10mm lines so that fun. he also relized that the current boundries were too small for both the normal bot componenets and the pcb so the pcb is now 28 mm longer yay more room. he had fights with the mcu footprint and the accelarometer footprint for a while because neither of them were working correctly with pins and whatnot until he changed the pins in the footprint which took him hours to learn. overall most of the placement is decided, this bot is going to be spinning stupid fast around 300mph, for the acceloreter to not be oversatured it needs to be exactly in the ceneter, even 10mm out from the center could reach almost 5000 g's. there is too much open space in the pcb perfect for some art.
+
+![image](https://github.com/user-attachments/assets/313ae2f6-6445-4a53-8417-81a9940b3905)
+
+**Total time spend 3hr**
