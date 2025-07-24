@@ -42,4 +42,8 @@ Dylan didnt have time to work on the PCB yesterday and today he learned he wasnt
 
 **Total time spend 5hr**
 
+# July 21st: added the rest of things to schematic
 
+Today dylan worked on the schematic and added things like caps, resistors, mosfets, and diodes, he also added everything that is needed into the bom, the price might be over 350$ so luke might need to split the extra. the big main mosfet is for in case the power gets applied backwards all the electronics dont die, the diode is to help reduce noise
+
+![image](https://github.com/user-attachments/assets/5f6904a4-4b80-426b-9970-d34f1ce15626)
