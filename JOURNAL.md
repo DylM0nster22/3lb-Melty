@@ -44,6 +44,16 @@ Dylan didnt have time to work on the PCB yesterday and today he learned he wasnt
 
 # July 21st: added the rest of things to schematic
 
-Today dylan worked on the schematic and added things like caps, resistors, mosfets, and diodes, he also added everything that is needed into the bom, the price might be over 350$ so luke might need to split the extra. the big main mosfet is for in case the power gets applied backwards all the electronics dont die, the diode is to help reduce noise
+Today dylan worked on the schematic and added things like caps, resistors, mosfets, and diodes, he also added everything that is needed into the bom, the price might be over 350$ so luke might need to split the extra. the big main mosfet is for in case the power gets applied backwards all the electronics dont die, the diode is to help reduce noise.
 
 ![image](https://github.com/user-attachments/assets/5f6904a4-4b80-426b-9970-d34f1ce15626)
+
+**Total time spent 3hr**
+
+# July 22nd: starting the pcb part
+
+Today dylan spent too long to count looking for footprints before relizing that he has to make some of them himself or find ones close enough then edit them, he placed most of the components in a way that might work but might have to change it later, he also made the boundey of 48x128mm which is how big the current comparment of the bot is. 
+
+![image](https://github.com/user-attachments/assets/ecefd59d-47b6-43b0-bab3-d6088a5bcd57)
+
+**Total time spend 4hr**
