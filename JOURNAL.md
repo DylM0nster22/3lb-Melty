@@ -4,7 +4,7 @@ author: "Dylan and Luke"
 description: "This is going to be a 3lb meltybrain that has a custom pcb to control pwm movement and distrubte power"
 created_at: "2025-28-6"
 ---
-# Total Time Spent 0hr
+# Total Time Spent 38hr
 
 # June 28th: Researching parts, weight, and costs
 
@@ -14,7 +14,7 @@ Today is the start of the next bot, today will mainly consist of making a basic 
 
 With this BOM we have two 3536 drone motors as our main drive motors and two 90a esc's that Dylan found a good deal on. We also decieded on running the bot on a 3500 mah 4s battery, on lukes suggestion we are going to run carbon fiber for top and bottom plates with ar500 or s7 tool steel teeth somehow screws into a tpu body. 
 
-**Total Time Spend 1.5hr**
+**Total Time Spent 1.5hr**
 
 # June 29th: making the cad and trying to make the pcb
 
@@ -40,7 +40,7 @@ Dylan didnt have time to work on the PCB yesterday and today he learned he wasnt
 
 ![image](https://github.com/user-attachments/assets/65da2628-63cd-44c1-8b85-a7690f9aad56)
 
-**Total time spend 5hr**
+**Total time spent 5hr**
 
 # July 21st: added the rest of things to schematic
 
@@ -56,7 +56,7 @@ Today dylan spent too long to count looking for footprints before relizing that 
 
 ![image](https://github.com/user-attachments/assets/ecefd59d-47b6-43b0-bab3-d6088a5bcd57)
 
-**Total time spend 4hr**
+**Total time spent 4hr**
 
 # July 23rd: Continuing on the PCB
 
@@ -64,4 +64,16 @@ Today Dylan finally started getting into the grove of how kicad works after spen
 
 ![image](https://github.com/user-attachments/assets/313ae2f6-6445-4a53-8417-81a9940b3905)
 
-**Total time spend 3hr**
+**Total time spent 3hr**
+
+# July 27th: Finishing the PCB and editing the CAD
+
+Today luke didnt exist so dylan did everything, the start of today was routing the pcb and figureing out how to make those big traces i was talking about, routing took a bit because i had to remember how to flip wires on the underside of the board and figure out how to make the big traces. i learned instead of normal traces what i needed was zones of copper, and to make it so everything was easier to route i make those zones on the bottom of the board. during the routing process i relized that where i had the pins for the reciever to the mcu set wrong so i had to change that. on the Cad side of things i had to make the space changes i talked about earlier to make the pcb fit and i also learned luke wasnt as done with the cad as i though. I added things like more support for the center of the bot, mounting holes for the weapons, wheels and rims, making the whole things 6mm taller, adding the escs, and adding screw holes to the bottom plate. tommorow i will need to make a way to mount the tires to the rims and add screw holes to the top lid and do some final weight calculations and hope that im not somehow out of weight, oh and i also learned that i am overbudget by a good amount so thats fun. while i was typing this big paragraph i was letting fusion render the cad so thats nice.
+
+![image](https://github.com/user-attachments/assets/587d3e10-3455-4d4e-ab22-b6c65ada1be3)
+![image](https://github.com/user-attachments/assets/767f2554-9c21-4e59-9d07-b84de258acd2)
+![image](https://github.com/user-attachments/assets/cc086c95-5261-4a39-8bf9-6529ee81a07c)
+![image](https://github.com/user-attachments/assets/e95d2aff-6e03-483b-81df-baa9032a1f29)
+![image](https://github.com/user-attachments/assets/5247cdd4-f1bb-4297-a058-7f1654979a7d)
+
+**Total time spent 8hr**
