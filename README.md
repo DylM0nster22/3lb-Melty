@@ -39,3 +39,5 @@ This project includes a custom pcb for all the wiring of motors, escs, adafruit 
 |                        |        |        |            |            |              |                    |                                                                |
 | Body                   | 1      | $0.00  | $0.00      | $0.00      | $384.00      |                    |                                                                |
 |                        |        |        | $367.82    |            | 1175.95      |                 |                                                                |
+
+source for code https://github.com/nothinglabs/openmelt2
