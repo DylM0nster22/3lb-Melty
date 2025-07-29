@@ -4,7 +4,7 @@ author: "Dylan and Luke"
 description: "This is going to be a 3lb meltybrain that has a custom pcb to control pwm movement and distrubte power"
 created_at: "2025-28-6"
 ---
-# Total Time Spent 38hr
+# Total Time Spent 38.75hr
 
 # June 28th: Researching parts, weight, and costs
 
@@ -77,3 +77,13 @@ Today luke didnt exist so dylan did everything, the start of today was routing t
 ![image](https://github.com/user-attachments/assets/5247cdd4-f1bb-4297-a058-7f1654979a7d)
 
 **Total time spent 8hr**
+
+# July 28th: spent some time on finishing touches and weight calculations
+
+Today didnt consist of much just some small things like adding screw holes to the top. send cut send is really fun with pricing see the images below which is why theres three weapons instead of just two. i think this is the end of it, time to submit and hope for the best. there is carbon fibre needed but were going to buy it separately.
+
+![image](https://github.com/user-attachments/assets/dd17807b-7a73-46b5-828c-13e41d4d3d83)
+![image](https://github.com/user-attachments/assets/4f24199f-9d35-4e4d-ace8-8fb3252dcc75)
+![image](https://github.com/user-attachments/assets/b3bd89a2-dc25-4741-b53a-229dbfaabac8)
+
+**Total time spend 45 min**
