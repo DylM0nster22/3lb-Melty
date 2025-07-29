@@ -1,4 +1,4 @@
-Parts,r,Cost,Total Cost,Weight,Total Weight,Provider,
+Parts,Amount,Cost,Total Cost,Weight,Total Weight,Provider,
 ,,,,,,,
 Drive/Weapon motor,2,$34.59,$69.18,156,312,HobbyKing,PROPDRIVE v2 3542 1250KV Brushless Outrunner Motor
 ESC,2,$30.00,$60.00,13.9,27.8,Amazon,HGLRC Specter 90A 8S BLheli32 Single ESC
