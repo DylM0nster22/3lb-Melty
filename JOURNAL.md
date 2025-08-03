@@ -4,7 +4,7 @@ author: "Dylan and Luke"
 description: "This is going to be a 3lb meltybrain that has a custom pcb to control pwm movement and distrubte power"
 created_at: "2025-28-6"
 ---
-# Total Time Spent 38.75hr
+# Total Time Spent 43hr
 
 # June 28th: Researching parts, weight, and costs
 
@@ -87,3 +87,9 @@ Today didnt consist of much just some small things like adding screw holes to th
 ![image](https://github.com/user-attachments/assets/b3bd89a2-dc25-4741-b53a-229dbfaabac8)
 
 **Total time spend 45 min**
+
+# August 2nd: working on the pcb to make it better 
+
+So our project didnt get approved for 10 points because the pcb was essentially a plug in external modules, but now it has a fully custom wires mcu which is a atmega32u4, i did everything like the decoupleing caps and the reset buttons and eveyrthing so hopefully ill be able to get approved for 10 points now, i spend the first 30 ish minutes researching the mcu and what pins did what and stuff, then i imported it and all the other things. i decieded on using usb-c because its the more used port out of what i have so that brought its own challenges. by far the hardest part was getting all the wires to everything because with the smaller chip and all the added things there was like no room left so there are alot of vias, i also relized i had to move the resistors as i was wiring this because two were under the accelormeter which wouldent work well.
+
+**Total time spent 4.25hr**
