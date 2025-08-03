@@ -96,4 +96,9 @@ So our project didnt get approved for 10 points because the pcb was essentially 
 ![image](https://github.com/user-attachments/assets/ff066919-cc10-4507-82da-be9b51422776)
 ![image](https://github.com/user-attachments/assets/29ff7144-f80a-4a08-a859-11e4fc25a8e3)
 
+Edit found a issue with power and resolved it rq 
+
+<img width="1173" height="793" alt="image" src="https://github.com/user-attachments/assets/abf7a1f9-8ccd-425e-af7d-3b9f3c389075" />
+
+
 **Total time spent 4.25hr**
