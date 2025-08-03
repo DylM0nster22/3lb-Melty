@@ -92,4 +92,8 @@ Today didnt consist of much just some small things like adding screw holes to th
 
 So our project didnt get approved for 10 points because the pcb was essentially a plug in external modules, but now it has a fully custom wires mcu which is a atmega32u4, i did everything like the decoupleing caps and the reset buttons and eveyrthing so hopefully ill be able to get approved for 10 points now, i spend the first 30 ish minutes researching the mcu and what pins did what and stuff, then i imported it and all the other things. i decieded on using usb-c because its the more used port out of what i have so that brought its own challenges. by far the hardest part was getting all the wires to everything because with the smaller chip and all the added things there was like no room left so there are alot of vias, i also relized i had to move the resistors as i was wiring this because two were under the accelormeter which wouldent work well.
 
+![image](https://github.com/user-attachments/assets/e3d63fd0-bcd0-43ad-b4bb-83c2c03d85d0)
+![image](https://github.com/user-attachments/assets/ff066919-cc10-4507-82da-be9b51422776)
+![image](https://github.com/user-attachments/assets/29ff7144-f80a-4a08-a859-11e4fc25a8e3)
+
 **Total time spent 4.25hr**
