@@ -8,6 +8,7 @@ This project includes a custom pcb for all the wiring of motors, escs, adafruit 
 
 
 <img width="1240" height="718" alt="image" src="https://github.com/user-attachments/assets/351e054c-3a8f-429b-8e1f-a2853ed640db" />
+![image](https://github.com/user-attachments/assets/e3d63fd0-bcd0-43ad-b4bb-83c2c03d85d0)
 <img width="1920" height="722" alt="471334013-767f2554-9c21-4e59-9d07-b84de258acd2" src="https://github.com/user-attachments/assets/17f9eb64-4beb-436a-8c96-fd9ac90e0d2a" />
 <img width="1443" height="881" alt="image" src="https://github.com/user-attachments/assets/ac9372a2-50bf-4f83-9960-8640fa336449" />
 <img width="1033" height="580" alt="image" ![image](https://github.com/user-attachments/assets/e3d63fd0-bcd0-43ad-b4bb-83c2c03d85d0) src="https://github.com/user-attachments/assets/8d6d9690-1bc0-4dc2-a07a-4f48d09e28e6" />
